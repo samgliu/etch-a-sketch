@@ -4,7 +4,7 @@
 
 [<img alt="" width="400px" src="images/example.png" />](https://samgliu.github.io/etch-a-sketch/)
 
-        A ETCH-A-SKETCH drawing board built with HTML/CSS/JavaScript.
+        It is an ETCH-A-SKETCH drawing board built with HTML/CSS/JavaScript.
 
 [<h2>Live Demo</h2>](https://samgliu.github.io/etch-a-sketch/)
 
